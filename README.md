@@ -3,7 +3,6 @@
 [![Gem Version](https://badge.fury.io/rb/angular-rails-templates.png)](http://badge.fury.io/rb/angular-rails-templates)
 [![Coverage Status](https://coveralls.io/repos/github/pitr/angular-rails-templates/badge.svg?branch=master)](https://coveralls.io/github/pitr/angular-rails-templates?branch=master)
 [![Code Climate](https://codeclimate.com/github/pitr/angular-rails-templates/badges/gpa.svg)](https://codeclimate.com/github/pitr/angular-rails-templates)
-[![Issue Stats](http://issuestats.com/github/pitr/angular-rails-templates/badge/pr)](http://issuestats.com/github/pitr/angular-rails-templates)
 [![Issue Stats](http://issuestats.com/github/pitr/angular-rails-templates/badge/issue)](http://issuestats.com/github/pitr/angular-rails-templates)
 [![Stories in Ready](https://badge.waffle.io/pitr/angular-rails-templates.png?label=ready&title=Ready)](https://waffle.io/pitr/angular-rails-templates)
 
